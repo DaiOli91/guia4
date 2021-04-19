@@ -10,4 +10,10 @@ public class Pelicula {
     private int duracion;
     private Audiencia clasificacion;
     private Genero genero;
+
+    ////////////////// CONSTRUCTORES
+    ////////////////// GETTERS
+    ////////////////// SETTERS
+    ////////////////// OTROS
+    ////////////////// OVERRIDDEN
 }

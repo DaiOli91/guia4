@@ -9,4 +9,10 @@ public class Alquiler {
     private Pelicula pelicula;
     private Cliente cliente;
     private LocalDate fechaRecibido; //para "anotar" cuando una peli fue devuelta
+
+    ////////////////// CONSTRUCTORES
+    ////////////////// GETTERS
+    ////////////////// SETTERS
+    ////////////////// OTROS
+    ////////////////// OVERRIDDEN
 }

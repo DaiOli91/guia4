@@ -10,4 +10,10 @@ public class Cliente {
     private String direccion;
     private ArrayList<Alquiler> alquileres; //also hashset?
 
+    ////////////////// CONSTRUCTORES
+    ////////////////// GETTERS
+    ////////////////// SETTERS
+    ////////////////// OTROS
+    ////////////////// OVERRIDDEN
+
 }
